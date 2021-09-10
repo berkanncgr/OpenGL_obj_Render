@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(70,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(71,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(75,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(76,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(77,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(78,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(257,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(287,26): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(290,26): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(293,26): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(296,26): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(299,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(302,26): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Projects\OpenGL3\OpenGL3\src\main.cpp(536,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL3.vcxproj -> C:\Projects\OpenGL3\Debug\OpenGL3.exe

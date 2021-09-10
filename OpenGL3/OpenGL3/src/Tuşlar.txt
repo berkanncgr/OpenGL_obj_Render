@@ -1,0 +1,12 @@
+Yön Tuşları: Modeli sağa-sola-yukarı-aşağı haraket ettir.
+W-S: Modeli ileri-geri hareket ettir.
+Z-X: Modeli X ekseninde çevir.
+Q-E: Modeli Y ekseninde çevir.
+A-D: Modeli Z ekseninde çevir.
+C-V: Modeli büyült-küçült.
+Space: Yukarıdaki tuşlar kullanıldığında hareketi durdurmak için kullan.
+I-J-K-L: Kamerayı hareket ettir (Space gerekli değil)
+Mouse: (Sol tık basılı tutuluyorken) Kamerayı çevir.
+R: Kamerayı başlangıç ayarına getir.
+F: Tam ekrana geçiş yap- Tam ekrandan çık.
+ESC: Programı sonlandır. 
