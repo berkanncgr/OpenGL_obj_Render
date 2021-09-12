@@ -440,10 +440,10 @@ void InitOpenGL()
         ObjVertices[i].normal.x = mesh->normals[(3 * i)+ 2];
 
         // Set red color for all vertices.
-        ObjVertices[i].color = glm::vec3(0.f, 1.f, 0.f); 
+        ObjVertices[i].color = glm::vec3(1.f, 0.f, 0.f); 
     }
 
-    // 
+    // We got indices data from mesh.
     for (std::size_t j = 0; j < indexes.size(); j++)
         indexes[j] = mesh->indices[j].p;
     
